@@ -2,7 +2,7 @@
 
 <br>
 
-[Fullstack Next.js E-commerce] (https://mern-ecommerce-daljeet.vercel.app/)
+[Fullstack Next.js E-commerce](https://mern-ecommerce-daljeet.vercel.app/)
 
 </h1>
 
