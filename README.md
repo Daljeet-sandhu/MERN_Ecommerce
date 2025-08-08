@@ -20,7 +20,8 @@
 ## Screenshots 📸
 
 <br>
-![picture alt](./frontend/screenshot.png)
+
+![picture alt](screenshot.png)
 
 <br>
 
