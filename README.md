@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://ibb.co/R4s0qVg5" width="100%" />
+<img src="[https://ibb.co/R4s0qVg5](https://i.ibb.co/M5tVm3gX/Screenshot-2025-08-08-165623.png)" width="100%" />
 
 <br>
 
