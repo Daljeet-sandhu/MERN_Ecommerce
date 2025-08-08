@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://i.imgur.com/LHS9McK.png" width="100%" />
+<img src="https://ibb.co/R4s0qVg5" width="100%" />
 
 <br>
 
