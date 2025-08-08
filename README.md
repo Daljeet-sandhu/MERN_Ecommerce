@@ -20,8 +20,6 @@
 ## Screenshots 📸
 
 <br>
-
-<img src="screenshot.png" width="100%" />
 ![picture alt](./frontend/screenshot.png)
 
 <br>
