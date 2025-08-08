@@ -28,13 +28,10 @@ Fullstack Next.js E-commerce
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/46969484/143662639-de569e93-917c-40d8-b4ff-efbd6e6e82f3.png" width="100%" />
+<img src="https://i.imgur.com/LHS9McK.png" width="100%" />
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/46969484/143662647-7fb16f8e-f982-46a3-ad92-e5cd357fe025.png" width="100%" />
-
-<br>
 
 ## Code Example/Issues 🔍
 
