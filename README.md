@@ -36,23 +36,6 @@ If you have any issues, please let me know in the issues section or directly to 
 git clone https://github.com/Daljeet-sandhu/MERN_Ecommerce.git
 ```
 
-Fill your `.env` variables:
-
-```
-POSTGRES_USER=
-POSTGRES_PASSWORD=
-POSTGRES_DB=
-DATABASE_URL="postgresql://<POSTGRES_USER>:<POSTGRES_PASSWORD>@<POSTGRES_HOST>:<POSTGRES_PORT>/<POSTGRES_DB>?schema=public&sslmode=prefer"
-GITHUB_SECRET=
-GITHUB_ID=
-SECRET=
-NEXTAUTH_URL=
-NEXTAUTH_CALLBACK_URL=
-NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=
-STRIPE_SECRET_KEY=
-NEXT_PUBLIC_STRIPE_SUCCESS_REDIRECT_URL=
-NEXT_PUBLIC_STRIPE_ERROR_REDIRECT_URL
-```
 
 Install deps:
 
