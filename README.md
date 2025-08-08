@@ -16,8 +16,6 @@
 - Sentry
 - Yup
 
-![plot](./screenshot.png)
-
 
 ## Screenshots 📸
 
